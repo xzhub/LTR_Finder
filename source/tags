@@ -1,0 +1,962 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+ALL_OPS	makefile	/^ALL_OPS = regex.o Timing.o BooleanString.o LinearSuffixSort.o lcp.o \\$/;"	m
+ARG_PREFIX	regex.c	612;"	d	file:
+ARG_PREFIX	regex.c	622;"	d	file:
+ARG_PREFIX	regex.c	8355;"	d	file:
+AT_STRINGS_BEG	regex.c	5410;"	d	file:
+AT_STRINGS_BEG	regex.c	8341;"	d	file:
+AT_STRINGS_END	regex.c	5411;"	d	file:
+AT_STRINGS_END	regex.c	8342;"	d	file:
+AT_WORD_BOUNDARY	regex.c	5436;"	d	file:
+AddPos	predict_RT.pl	/^sub AddPos$/;"	s
+AddRegion	CallPsScan.cpp	/^void CPSSCAN::AddRegion(int begin, int end)$/;"	f	class:CPSSCAN
+AddRegion	DetectDomain.cpp	/^void CPSSCAN::AddRegion(int begin, int end)$/;"	f	class:CPSSCAN
+AlnAln	stdaln.h	/^} AlnAln;$/;"	t
+AlnParam	stdaln.h	/^} AlnParam;$/;"	t
+BOOLEANSTRING_H	BooleanString.h	2;"	d
+BUF_PUSH	regex.c	2017;"	d	file:
+BUF_PUSH	regex.c	8327;"	d	file:
+BUF_PUSH_2	regex.c	2025;"	d	file:
+BUF_PUSH_2	regex.c	8328;"	d	file:
+BUF_PUSH_3	regex.c	2034;"	d	file:
+BUF_PUSH_3	regex.c	8329;"	d	file:
+BYTE	regex.c	634;"	d	file:
+BYTE	regex.c	8357;"	d	file:
+BYTEWIDTH	regex.c	393;"	d	file:
+BooleanString	BooleanString.C	/^BooleanString::BooleanString()$/;"	f	class:BooleanString
+BooleanString	BooleanString.C	/^BooleanString::BooleanString(const int strLength) $/;"	f	class:BooleanString
+BooleanString	BooleanString.h	/^class BooleanString$/;"	c
+CA	struct.h	/^	short CA;$/;"	m	struct:TSR
+CALLPSSCAN_LTR_FINDER_H	CallPsScan.h	20;"	d
+CC	makefile	/^CC = gcc$/;"	m
+CHAR2QUAL	seq.h	44;"	d
+CHAR_CLASS_MAX_LENGTH	regex.c	2245;"	d	file:
+CHAR_CLASS_MAX_LENGTH	regex.c	2249;"	d	file:
+CHAR_CLASS_MAX_LENGTH	regex.c	2258;"	d	file:
+CHAR_CLASS_SIZE	regex.c	620;"	d	file:
+CHAR_CLASS_SIZE	regex.c	8353;"	d	file:
+CHAR_SET_SIZE	regex.c	262;"	d	file:
+CHAR_T	regex.c	607;"	d	file:
+CHAR_T	regex.c	616;"	d	file:
+CHAR_T	regex.c	8349;"	d	file:
+CHECK_PAIRS	main.cpp	/^int CHECK_PAIRS=0;$/;"	v
+COMPILED_BUFFER_VAR	regex.c	609;"	d	file:
+COMPILED_BUFFER_VAR	regex.c	618;"	d	file:
+COMPILED_BUFFER_VAR	regex.c	8351;"	d	file:
+COMPILE_STACK_EMPTY	regex.c	2208;"	d	file:
+COMPILE_STACK_FULL	regex.c	2209;"	d	file:
+COMPILE_STACK_TOP	regex.c	2212;"	d	file:
+CPSSCAN	CallPsScan.h	/^    CPSSCAN(){ready=false;};$/;"	f	class:CPSSCAN
+CPSSCAN	CallPsScan.h	/^    CPSSCAN(char* p){init(p);};$/;"	f	class:CPSSCAN
+CPSSCAN	CallPsScan.h	/^class CPSSCAN$/;"	c
+CPSSCAN	DetectDomain.h	/^    CPSSCAN(){ready=false;};$/;"	f	class:CPSSCAN
+CPSSCAN	DetectDomain.h	/^    CPSSCAN(char* p){init(p);};$/;"	f	class:CPSSCAN
+CPSSCAN	DetectDomain.h	/^class CPSSCAN$/;"	c
+CRegion	CallPsScan.h	/^    CRegion(int a, int b):vaild(true){first=a;second=b;};$/;"	f	struct:CRegion
+CRegion	CallPsScan.h	/^struct CRegion$/;"	s
+CRegion	DetectDomain.h	/^    CRegion(int a, int b):vaild(true){first=a;second=b;};$/;"	f	struct:CRegion
+CRegion	DetectDomain.h	/^struct CRegion$/;"	s
+CXX	makefile	/^CXX = g++$/;"	m
+CXX_OPTION	makefile	/^CXX_OPTION = -fomit-frame-pointer -DNDBUG  -O3 -g$/;"	m
+C_ALLOCA	regex.c	1466;"	d	file:
+CountScore	main.cpp	/^void CountScore(stick& st)$/;"	f
+D	stdaln.c	/^	int M, I, D;$/;"	m	file:
+DEBUG_POP	regex.c	1645;"	d	file:
+DEBUG_POP	regex.c	1648;"	d	file:
+DEBUG_POP	regex.c	8313;"	d	file:
+DEBUG_PRINT1	regex.c	1230;"	d	file:
+DEBUG_PRINT1	regex.c	761;"	d	file:
+DEBUG_PRINT2	regex.c	1231;"	d	file:
+DEBUG_PRINT2	regex.c	762;"	d	file:
+DEBUG_PRINT3	regex.c	1232;"	d	file:
+DEBUG_PRINT3	regex.c	763;"	d	file:
+DEBUG_PRINT4	regex.c	1233;"	d	file:
+DEBUG_PRINT4	regex.c	764;"	d	file:
+DEBUG_PRINT_COMPILED_PATTERN	regex.c	1235;"	d	file:
+DEBUG_PRINT_COMPILED_PATTERN	regex.c	767;"	d	file:
+DEBUG_PRINT_COMPILED_PATTERN	regex.c	8299;"	d	file:
+DEBUG_PRINT_DOUBLE_STRING	regex.c	1236;"	d	file:
+DEBUG_PRINT_DOUBLE_STRING	regex.c	769;"	d	file:
+DEBUG_PRINT_DOUBLE_STRING	regex.c	8300;"	d	file:
+DEBUG_PUSH	regex.c	1644;"	d	file:
+DEBUG_PUSH	regex.c	1647;"	d	file:
+DEBUG_PUSH	regex.c	8312;"	d	file:
+DEBUG_STATEMENT	regex.c	1229;"	d	file:
+DEBUG_STATEMENT	regex.c	760;"	d	file:
+DEFINED_ONCE	regex.c	8360;"	d	file:
+DETECTDOMAIN_LTR_FINDER_H	DetectDomain.h	20;"	d
+DOUBLE_FAIL_STACK	regex.c	1594;"	d	file:
+DOUBLE_FAIL_STACK	regex.c	8304;"	d	file:
+Dmax	main.cpp	/^int Dmax = 20000;$/;"	v
+Dmin	main.cpp	/^int Dmin = 100;$/;"	v
+Dt	stdaln.c	/^	unsigned char Mt:3, It:2, Dt:2;$/;"	m	file:
+ELSE_EXTEND_BUFFER_HIGH_BOUND	regex.c	2088;"	d	file:
+ELSE_EXTEND_BUFFER_HIGH_BOUND	regex.c	2102;"	d	file:
+EVER_MATCHED_SOMETHING	regex.c	1884;"	d	file:
+EXTEND_BUFFER	regex.c	2107;"	d	file:
+EXTEND_BUFFER	regex.c	2141;"	d	file:
+EXTEND_BUFFER	regex.c	8334;"	d	file:
+EXTRACT_NUMBER	regex.c	676;"	d	file:
+EXTRACT_NUMBER	regex.c	681;"	d	file:
+EXTRACT_NUMBER	regex.c	705;"	d	file:
+EXTRACT_NUMBER	regex.c	706;"	d	file:
+EXTRACT_NUMBER	regex.c	8296;"	d	file:
+EXTRACT_NUMBER_AND_INCR	regex.c	714;"	d	file:
+EXTRACT_NUMBER_AND_INCR	regex.c	733;"	d	file:
+EXTRACT_NUMBER_AND_INCR	regex.c	734;"	d	file:
+EXTRACT_NUMBER_AND_INCR	regex.c	8297;"	d	file:
+EraseOverlap	PairsFilter.cpp	/^void EraseOverlap(vector<stick>& sticks)$/;"	f
+ExtendPairs	PairsFilter.cpp	/^bool ExtendPairs(char* myString, int stringLength, stick& st)$/;"	f
+FAIL_STACK_EMPTY	regex.c	1554;"	d	file:
+FAIL_STACK_FULL	regex.c	1556;"	d	file:
+FAIL_STACK_PTR_EMPTY	regex.c	1555;"	d	file:
+FALSE	regex.c	626;"	d	file:
+FIRST_STRING_P	regex.c	383;"	d	file:
+FREE_STACK_RETURN	regex.c	2347;"	d	file:
+FREE_STACK_RETURN	regex.c	2350;"	d	file:
+FREE_STACK_RETURN	regex.c	8336;"	d	file:
+FREE_VAR	regex.c	5086;"	d	file:
+FREE_VAR	regex.c	5088;"	d	file:
+FREE_VAR	regex.c	8344;"	d	file:
+FREE_VARIABLES	regex.c	5444;"	d	file:
+FREE_VARIABLES	regex.c	5465;"	d	file:
+FREE_VARIABLES	regex.c	5481;"	d	file:
+FREE_VARIABLES	regex.c	5492;"	d	file:
+FREE_VARIABLES	regex.c	8345;"	d	file:
+FREE_WCS_BUFFERS	regex.c	5094;"	d	file:
+FROM_D	stdaln.h	39;"	d
+FROM_I	stdaln.h	38;"	d
+FROM_M	stdaln.h	37;"	d
+Filter	main.cpp	/^char* Filter=NULL;$/;"	v
+Find	CallPsScan.cpp	/^bool CPSSCAN::Find(int begin, int end, vector<MOTIF>& res)$/;"	f	class:CPSSCAN
+Find	DetectDomain.cpp	/^bool CPSSCAN::Find(int begin, int end, vector<MOTIF>& res)$/;"	f	class:CPSSCAN
+FindDomain	predict_RT.pl	/^sub FindDomain$/;"	s
+FindEdge	PairsFilter.cpp	/^int FindEdge(char* str,int len,int win_size,int direct)$/;"	f
+FindSignal	PairsFilter.cpp	/^void FindSignal(char* myString, int maxLen, PBS& pbs, PPT& ppt, stick& st)$/;"	f
+FindTSR	PairsFilter.cpp	/^int FindTSR(char* myString, int pos1, int pos2)$/;"	f
+FindTwoChar	PairsFilter.cpp	/^void FindTwoChar(AlnAln *aln,vector<int>& pos1,vector<int>& pos2, char* sub)\/\/sub = 'TG' or 'CA'$/;"	f
+GET_BUFFER_SPACE	regex.c	2006;"	d	file:
+GET_BUFFER_SPACE	regex.c	2011;"	d	file:
+GET_BUFFER_SPACE	regex.c	8326;"	d	file:
+GET_UNSIGNED_NUMBER	regex.c	2224;"	d	file:
+GET_UNSIGNED_NUMBER	regex.c	8335;"	d	file:
+GetFile	down_tRNA.pl	/^sub GetFile$/;"	s
+GetPairs	PairsFilter.cpp	/^int GetPairs (char *myString, int stringLength, int Lex, int Lmax, int Dmin, int Dmax,$/;"	f
+I	stdaln.c	/^	int M, I, D;$/;"	m	file:
+INHIBIT_STRING_HEADER	regex.c	137;"	d	file:
+INIT_BUF_SIZE	regex.c	2002;"	d	file:
+INIT_BUF_SIZE	regex.c	8325;"	d	file:
+INIT_COMPILE_STACK_SIZE	regex.c	2206;"	d	file:
+INIT_FAILURE_ALLOC	regex.c	1489;"	d	file:
+INIT_FAIL_STACK	regex.c	1564;"	d	file:
+INIT_FAIL_STACK	regex.c	1578;"	d	file:
+INIT_FAIL_STACK	regex.c	8302;"	d	file:
+INIT_SEQ	seq.h	42;"	d
+INSERT_JUMP	regex.c	2052;"	d	file:
+INSERT_JUMP	regex.c	8332;"	d	file:
+INSERT_JUMP2	regex.c	2056;"	d	file:
+INSERT_JUMP2	regex.c	8333;"	d	file:
+INSIDE_RECURSION	regex.c	630;"	d	file:
+INSIDE_RECURSION	regex.c	632;"	d	file:
+INSIDE_RECURSION	regex.c	635;"	d	file:
+INSIDE_RECURSION	regex.c	637;"	d	file:
+INT_SIZE	LinearSuffixSort.cpp	11;"	d	file:
+INT_SIZE	LinearSuffixSort.h	11;"	d
+ISALNUM	regex.c	229;"	d	file:
+ISALPHA	regex.c	230;"	d	file:
+ISASCII	regex.c	208;"	d	file:
+ISASCII	regex.c	210;"	d	file:
+ISASCII	regex.c	212;"	d	file:
+ISBLANK	regex.c	216;"	d	file:
+ISBLANK	regex.c	218;"	d	file:
+ISCNTRL	regex.c	231;"	d	file:
+ISDIGIT	regex.c	228;"	d	file:
+ISGRAPH	regex.c	221;"	d	file:
+ISGRAPH	regex.c	223;"	d	file:
+ISLOWER	regex.c	232;"	d	file:
+ISPRINT	regex.c	226;"	d	file:
+ISPRINT	regex.c	227;"	d	file:
+ISPUNCT	regex.c	233;"	d	file:
+ISSPACE	regex.c	234;"	d	file:
+ISUPPER	regex.c	235;"	d	file:
+ISXDIGIT	regex.c	236;"	d	file:
+IS_ACTIVE	regex.c	1882;"	d	file:
+IS_CHAR_CLASS	regex.c	2253;"	d	file:
+IS_CHAR_CLASS	regex.c	2255;"	d	file:
+IS_CHAR_CLASS	regex.c	2260;"	d	file:
+InitFilter	main.cpp	/^int InitFilter(char* f)$/;"	f
+It	stdaln.c	/^	unsigned char Mt:3, It:2, Dt:2;$/;"	m	file:
+JoinDomain	predict_RT.pl	/^sub JoinDomain$/;"	s
+JoinPairs	PairsFilter.cpp	/^void JoinPairs(char* myString,int stringLength,vector<candidate>& Pair,vector<stick>& sticks)$/;"	f
+LH3_STDALN_H_	stdaln.h	24;"	d
+LOCAL_OVERFLOW_REDUCE	stdaln.c	233;"	d	file:
+LOCAL_OVERFLOW_THRESHOLD	stdaln.c	232;"	d	file:
+LTR3	struct.h	/^    string LTR3;$/;"	m	struct:stick
+LTR5	struct.h	/^    string LTR5;$/;"	m	struct:stick
+Lex	main.cpp	/^int Lex = 20;				\/\/pre limit$/;"	v
+LinearSuffixSort	LinearSuffixSort.cpp	/^int* LinearSuffixSort(char*& inputString, int& stringLength)$/;"	f
+LinearSuffixSort	LinearSuffixSort.cpp	/^int* LinearSuffixSort(const int* inputString, const int stringLength)$/;"	f
+Lmax	main.cpp	/^int Lmax = 3500;$/;"	v
+Lmin	main.cpp	/^int Lmin = 100;$/;"	v
+LoadSeq	PBS.cpp	/^string PBS::LoadSeq(char* filename)$/;"	f	class:PBS
+M	stdaln.c	/^	int M, I, D;$/;"	m	file:
+M3CA	main.cpp	/^int M3CA=1<<6;\/\/0001000000b;$/;"	v
+M3TG	main.cpp	/^int M3TG=1<<7;\/\/0010000000b;$/;"	v
+M5CA	main.cpp	/^int M5CA=1<<8;\/\/0100000000b;$/;"	v
+M5TG	main.cpp	/^int M5TG=1<<9;\/\/1000000000b;$/;"	v
+MATCHED_SOMETHING	regex.c	1883;"	d	file:
+MATCHING_IN_FIRST_STRING	regex.c	5393;"	d	file:
+MATCHING_IN_FRST_STRING	regex.c	8339;"	d	file:
+MATCH_MAY_ALLOCATE	regex.c	1461;"	d	file:
+MATCH_MAY_ALLOCATE	regex.c	1475;"	d	file:
+MATCH_NULL_UNSET_VALUE	regex.c	1872;"	d	file:
+MAX	regex.c	397;"	d	file:
+MAX	regex.c	399;"	d	file:
+MAX_ALLOCA_SIZE	regex.c	5092;"	d	file:
+MAX_BUF_SIZE	regex.c	2073;"	d	file:
+MAX_BUF_SIZE	regex.c	2076;"	d	file:
+MAX_CHAR_VAL	LinearSuffixSort.cpp	14;"	d	file:
+MAX_CHAR_VAL	LinearSuffixSort.h	14;"	d
+MAX_FAILURE_ITEMS	regex.c	1756;"	d	file:
+MAX_INT_INDEX	LinearSuffixSort.cpp	12;"	d	file:
+MAX_INT_INDEX	LinearSuffixSort.h	12;"	d
+MAX_NUM_CHAR	LinearSuffixSort.cpp	13;"	d	file:
+MAX_NUM_CHAR	LinearSuffixSort.h	13;"	d
+MAX_REGNUM	regex.c	2174;"	d	file:
+MB_LEN_MAX	regex.c	187;"	d	file:
+MCORE	main.cpp	/^int MCORE=1<<1;$/;"	v
+MCT	main.cpp	/^int MCT=1;$/;"	v
+MIN	regex.c	398;"	d	file:
+MIN	regex.c	400;"	d	file:
+MINOR_INF	stdaln.h	42;"	d
+MOTIF	struct.h	/^struct MOTIF$/;"	s
+MOVE_BUFFER_POINTER	regex.c	2086;"	d	file:
+MOVE_BUFFER_POINTER	regex.c	2101;"	d	file:
+MPBS	main.cpp	/^int MPBS=1<<4;\/\/0000010000b;$/;"	v
+MPPT	main.cpp	/^int MPPT=1<<3;\/\/0000001000b;$/;"	v
+MRT	main.cpp	/^int MRT= 1<<2;\/\/0000000100b;$/;"	v
+MTSR	main.cpp	/^int MTSR=1<<5;\/\/0000100000b;$/;"	v
+MYALLOC	seq.h	30;"	d
+MYALLOC	seq.h	35;"	d
+MYALLOC	stdaln.h	31;"	d
+MYFREE	seq.h	31;"	d
+MYFREE	seq.h	36;"	d
+MYFREE	stdaln.h	34;"	d
+MYREALLOC	seq.h	37;"	d
+MYREALOC	seq.h	32;"	d
+MaxGap	main.cpp	/^int MaxGap = 200;			\/\/between two pair$/;"	v
+MetaDomain	CallPsScan.h	/^struct MetaDomain$/;"	s
+Mt	stdaln.c	/^	unsigned char Mt:3, It:2, Dt:2;$/;"	m	file:
+NO_HIGHEST_ACTIVE_REG	regex.c	5503;"	d	file:
+NO_HIGHEST_ACTIVE_REG	regex.c	8346;"	d	file:
+NO_LOWEST_ACTIVE_REG	regex.c	5504;"	d	file:
+NO_LOWEST_ACTIVE_REG	regex.c	8347;"	d	file:
+NT_LOCAL_MASK	stdaln.c	236;"	d	file:
+NT_LOCAL_SCORE	stdaln.c	234;"	d	file:
+NT_LOCAL_SHIFT	stdaln.c	235;"	d	file:
+NULL	regex.c	245;"	d	file:
+NUM_FAILURE_ITEMS	regex.c	1759;"	d	file:
+NUM_NONREG_ITEMS	regex.c	1747;"	d	file:
+NUM_NONREG_ITEMS	regex.c	1749;"	d	file:
+NUM_REG_ITEMS	regex.c	1743;"	d	file:
+OFFSET_ADDRESS_SIZE	regex.c	610;"	d	file:
+OFFSET_ADDRESS_SIZE	regex.c	619;"	d	file:
+OFFSET_ADDRESS_SIZE	regex.c	8352;"	d	file:
+OutPutResult	main.cpp	/^void OutPutResult(char* name,char* myString,int stringLength, vector < stick >& sticks)$/;"	f
+PAIRFILTER_H_LTR_FINDER	PairsFilter.h	19;"	d
+PARAMS	regex.c	37;"	d	file:
+PARAMS	regex.c	39;"	d	file:
+PATFETCH	regex.c	1954;"	d	file:
+PATFETCH	regex.c	1960;"	d	file:
+PATFETCH	regex.c	8320;"	d	file:
+PATFETCH_RAW	regex.c	1970;"	d	file:
+PATFETCH_RAW	regex.c	8321;"	d	file:
+PATUNFETCH	regex.c	1976;"	d	file:
+PATUNFETCH	regex.c	8322;"	d	file:
+PBS	PBS.cpp	/^PBS::PBS()$/;"	f	class:PBS
+PBS	PBS.cpp	/^PBS::PBS(char* filename)$/;"	f	class:PBS
+PBS	PBS.h	/^class PBS$/;"	c
+PBS	struct.h	/^    bool PBS;$/;"	m	struct:PBS_PPT
+PBS_H_LTR_FINDER	PBS.h	20;"	d
+PBS_PPT	struct.h	/^    PBS_PPT():PPT_count(0),_PPT_count(0),PBS_name(""),_PBS_name(""){};$/;"	f	struct:PBS_PPT
+PBS_PPT	struct.h	/^struct PBS_PPT$/;"	s
+PBS_begin	struct.h	/^    int PBS_begin;$/;"	m	struct:PBS_PPT
+PBS_end	struct.h	/^    int PBS_end;$/;"	m	struct:PBS_PPT
+PBS_len	PBS.h	/^    int PBS_len;$/;"	m	class:PBS
+PBS_minLen	main.cpp	/^int PBS_minLen=14;$/;"	v
+PBS_name	struct.h	/^    string PBS_name;$/;"	m	struct:PBS_PPT
+PBS_region	main.cpp	/^int PBS_region=100;$/;"	v
+POINTER_TO_OFFSET	regex.c	5377;"	d	file:
+POINTER_TO_OFFSET	regex.c	5385;"	d	file:
+POINTER_TO_OFFSET	regex.c	8338;"	d	file:
+POP_FAILURE_ELT	regex.c	1640;"	d	file:
+POP_FAILURE_ELT	regex.c	8311;"	d	file:
+POP_FAILURE_INT	regex.c	1639;"	d	file:
+POP_FAILURE_INT	regex.c	8310;"	d	file:
+POP_FAILURE_POINT	regex.c	1781;"	d	file:
+POP_FAILURE_POINT	regex.c	8315;"	d	file:
+POP_FAILURE_POINTER	regex.c	1638;"	d	file:
+POP_FAILURE_POINTER	regex.c	8309;"	d	file:
+PPT	PBS.cpp	/^PPT::PPT()$/;"	f	class:PPT
+PPT	PBS.cpp	/^PPT::PPT(int w, int d)$/;"	f	class:PPT
+PPT	PBS.h	/^class PPT$/;"	c
+PPT	struct.h	/^    bool PPT;$/;"	m	struct:PBS_PPT
+PPT_begin	struct.h	/^    int PPT_begin;$/;"	m	struct:PBS_PPT
+PPT_count	struct.h	/^    int PPT_count;$/;"	m	struct:PBS_PPT
+PPT_region	main.cpp	/^int PPT_region=100;$/;"	v
+PPT_window	main.cpp	/^int PPT_window=15;$/;"	v
+PREFETCH	regex.c	5397;"	d	file:
+PREFETCH	regex.c	8340;"	d	file:
+PREFIX	regex.c	/^typedef union PREFIX(fail_stack_elt) PREFIX(fail_stack_elt_t);$/;"	t	file:
+PREFIX	regex.c	/^union PREFIX(fail_stack_elt)$/;"	f
+PREFIX	regex.c	/^} PREFIX(fail_stack_type);$/;"	t	file:
+PREFIX	regex.c	/^} PREFIX(register_info_type);$/;"	t	file:
+PREFIX	regex.c	611;"	d	file:
+PREFIX	regex.c	621;"	d	file:
+PREFIX	regex.c	8354;"	d	file:
+PUSH_FAILURE_ELT	regex.c	1633;"	d	file:
+PUSH_FAILURE_ELT	regex.c	8308;"	d	file:
+PUSH_FAILURE_INT	regex.c	1627;"	d	file:
+PUSH_FAILURE_INT	regex.c	8307;"	d	file:
+PUSH_FAILURE_POINT	regex.c	1661;"	d	file:
+PUSH_FAILURE_POINT	regex.c	8314;"	d	file:
+PUSH_FAILURE_POINTER	regex.c	1621;"	d	file:
+PUSH_FAILURE_POINTER	regex.c	8306;"	d	file:
+PUSH_PATTERN_OP	regex.c	1611;"	d	file:
+PUSH_PATTERN_OP	regex.c	8305;"	d	file:
+PUT_CHAR	regex.c	613;"	d	file:
+PUT_CHAR	regex.c	624;"	d	file:
+PUT_CHAR	regex.c	8356;"	d	file:
+Predict	CallPsScan.cpp	/^bool CPSSCAN::Predict(const char* seq,int len)$/;"	f	class:CPSSCAN
+Predict	DetectDomain.cpp	/^bool CPSSCAN::Predict(const char* seq,int len)$/;"	f	class:CPSSCAN
+PrintNoUsed	CallPsScan.cpp	/^void CPSSCAN::PrintNoUsed(void)$/;"	f	class:CPSSCAN
+PrintNoUsed	DetectDomain.cpp	/^void CPSSCAN::PrintNoUsed(void)$/;"	f	class:CPSSCAN
+QUAL2CHAR	seq.h	46;"	d
+REALLOC	regex.c	2074;"	d	file:
+REALLOC	regex.c	2077;"	d	file:
+REGEX_ALLOCATE	regex.c	316;"	d	file:
+REGEX_ALLOCATE	regex.c	336;"	d	file:
+REGEX_ALLOCATE_STACK	regex.c	352;"	d	file:
+REGEX_ALLOCATE_STACK	regex.c	363;"	d	file:
+REGEX_ALLOCATE_STACK	regex.c	369;"	d	file:
+REGEX_FREE	regex.c	318;"	d	file:
+REGEX_FREE	regex.c	344;"	d	file:
+REGEX_FREE_STACK	regex.c	356;"	d	file:
+REGEX_FREE_STACK	regex.c	365;"	d	file:
+REGEX_FREE_STACK	regex.c	374;"	d	file:
+REGEX_REALLOCATE	regex.c	317;"	d	file:
+REGEX_REALLOCATE	regex.c	339;"	d	file:
+REGEX_REALLOCATE_STACK	regex.c	354;"	d	file:
+REGEX_REALLOCATE_STACK	regex.c	364;"	d	file:
+REGEX_REALLOCATE_STACK	regex.c	371;"	d	file:
+REGEX_TALLOC	regex.c	391;"	d	file:
+REGS_FIXED	regex.h	372;"	d
+REGS_REALLOCATE	regex.h	371;"	d
+REGS_UNALLOCATED	regex.h	370;"	d
+REG_BADBR	regex.h	/^  REG_BADBR,		\/* Invalid contents of \\{\\}.  *\/$/;"	e
+REG_BADBR_IDX	regex.c	1395;"	d	file:
+REG_BADPAT	regex.h	/^  REG_BADPAT,		\/* Invalid pattern.  *\/$/;"	e
+REG_BADPAT_IDX	regex.c	1371;"	d	file:
+REG_BADRPT	regex.h	/^  REG_BADRPT,		\/* No preceding re for repetition op.  *\/$/;"	e
+REG_BADRPT_IDX	regex.c	1404;"	d	file:
+REG_EBRACE	regex.h	/^  REG_EBRACE,		\/* Unmatched \\{.  *\/$/;"	e
+REG_EBRACE_IDX	regex.c	1392;"	d	file:
+REG_EBRACK	regex.h	/^  REG_EBRACK,		\/* Unmatched left bracket.  *\/$/;"	e
+REG_EBRACK_IDX	regex.c	1386;"	d	file:
+REG_ECOLLATE	regex.h	/^  REG_ECOLLATE,		\/* Not implemented.  *\/$/;"	e
+REG_ECOLLATE_IDX	regex.c	1374;"	d	file:
+REG_ECTYPE	regex.h	/^  REG_ECTYPE,		\/* Invalid character class name.  *\/$/;"	e
+REG_ECTYPE_IDX	regex.c	1377;"	d	file:
+REG_EEND	regex.h	/^  REG_EEND,		\/* Premature end.  *\/$/;"	e
+REG_EEND_IDX	regex.c	1407;"	d	file:
+REG_EESCAPE	regex.h	/^  REG_EESCAPE,		\/* Trailing backslash.  *\/$/;"	e
+REG_EESCAPE_IDX	regex.c	1380;"	d	file:
+REG_ENOSYS	regex.h	/^  REG_ENOSYS = -1,	\/* This will never happen for this implementation.  *\/$/;"	e
+REG_EPAREN	regex.h	/^  REG_EPAREN,		\/* Parenthesis imbalance.  *\/$/;"	e
+REG_EPAREN_IDX	regex.c	1389;"	d	file:
+REG_ERANGE	regex.h	/^  REG_ERANGE,		\/* Invalid range end.  *\/$/;"	e
+REG_ERANGE_IDX	regex.c	1398;"	d	file:
+REG_ERPAREN	regex.h	/^  REG_ERPAREN		\/* Unmatched ) or \\); not returned from regcomp.  *\/$/;"	e
+REG_ERPAREN_IDX	regex.c	1413;"	d	file:
+REG_ESIZE	regex.h	/^  REG_ESIZE,		\/* Compiled pattern bigger than 2^16 bytes.  *\/$/;"	e
+REG_ESIZE_IDX	regex.c	1410;"	d	file:
+REG_ESPACE	regex.h	/^  REG_ESPACE,		\/* Ran out of memory.  *\/$/;"	e
+REG_ESPACE_IDX	regex.c	1401;"	d	file:
+REG_ESUBREG	regex.h	/^  REG_ESUBREG,		\/* Invalid back reference.  *\/$/;"	e
+REG_ESUBREG_IDX	regex.c	1383;"	d	file:
+REG_EXTENDED	regex.h	257;"	d
+REG_ICASE	regex.h	261;"	d
+REG_MATCH_NULL_STRING_P	regex.c	1881;"	d	file:
+REG_NEWLINE	regex.h	266;"	d
+REG_NOERROR	regex.h	/^  REG_NOERROR = 0,	\/* Success.  *\/$/;"	e
+REG_NOERROR_IDX	regex.c	1365;"	d	file:
+REG_NOMATCH	regex.h	/^  REG_NOMATCH,		\/* Didn't find a match (for regexec).  *\/$/;"	e
+REG_NOMATCH_IDX	regex.c	1368;"	d	file:
+REG_NOSUB	regex.h	270;"	d
+REG_NOTBOL	regex.h	280;"	d
+REG_NOTEOL	regex.h	283;"	d
+REG_UNSET	regex.c	1911;"	d	file:
+REG_UNSET	regex.c	8318;"	d	file:
+REG_UNSET_VALUE	regex.c	1910;"	d	file:
+REG_UNSET_VALUE	regex.c	8317;"	d	file:
+REL_ALLOC	regex.c	123;"	d	file:
+REMAINING_AVAIL_SLOTS	regex.c	1766;"	d	file:
+RESET_FAIL_STACK	regex.c	1576;"	d	file:
+RESET_FAIL_STACK	regex.c	1583;"	d	file:
+RESET_FAIL_STACK	regex.c	8303;"	d	file:
+RETALLOC	regex.c	388;"	d	file:
+RETALLOC_IF	regex.c	389;"	d	file:
+RE_BACKSLASH_ESCAPE_IN_LISTS	regex.h	55;"	d
+RE_BK_PLUS_QM	regex.h	60;"	d
+RE_CHAR_CLASSES	regex.h	66;"	d
+RE_CONTEXT_INDEP_ANCHORS	regex.h	80;"	d
+RE_CONTEXT_INDEP_OPS	regex.h	88;"	d
+RE_CONTEXT_INVALID_OPS	regex.h	92;"	d
+RE_DEBUG	regex.h	160;"	d
+RE_DOT_NEWLINE	regex.h	96;"	d
+RE_DOT_NOT_NULL	regex.h	100;"	d
+RE_DUP_MAX	regex.h	247;"	d
+RE_DUP_MAX	regex.h	250;"	d
+RE_HAT_LISTS_NOT_NEWLINE	regex.h	104;"	d
+RE_INTERVALS	regex.h	109;"	d
+RE_INVALID_INTERVAL_ORD	regex.h	165;"	d
+RE_LIMITED_OPS	regex.h	113;"	d
+RE_NEWLINE_ALT	regex.h	117;"	d
+RE_NO_BK_BRACES	regex.h	122;"	d
+RE_NO_BK_PARENS	regex.h	126;"	d
+RE_NO_BK_REFS	regex.h	130;"	d
+RE_NO_BK_VBAR	regex.h	134;"	d
+RE_NO_EMPTY_RANGES	regex.h	140;"	d
+RE_NO_GNU_OPS	regex.h	152;"	d
+RE_NO_POSIX_BACKTRACKING	regex.h	148;"	d
+RE_NREGS	regex.h	416;"	d
+RE_SYNTAX_AWK	regex.h	179;"	d
+RE_SYNTAX_ED	regex.h	210;"	d
+RE_SYNTAX_EGREP	regex.h	199;"	d
+RE_SYNTAX_EMACS	regex.h	177;"	d
+RE_SYNTAX_GNU_AWK	regex.h	186;"	d
+RE_SYNTAX_GREP	regex.h	194;"	d
+RE_SYNTAX_POSIX_AWK	regex.h	190;"	d
+RE_SYNTAX_POSIX_BASIC	regex.h	219;"	d
+RE_SYNTAX_POSIX_EGREP	regex.h	205;"	d
+RE_SYNTAX_POSIX_EXTENDED	regex.h	228;"	d
+RE_SYNTAX_POSIX_MINIMAL_BASIC	regex.h	225;"	d
+RE_SYNTAX_POSIX_MINIMAL_EXTENDED	regex.h	236;"	d
+RE_SYNTAX_SED	regex.h	212;"	d
+RE_TRANSLATE_TYPE	regex.h	325;"	d
+RE_UNMATCHED_RIGHT_PAREN_ORD	regex.h	144;"	d
+SEQ_BLOCK_SIZE	seq.h	41;"	d
+SEQ_H_	seq.h	24;"	d
+SET_HIGH_BOUND	regex.c	2085;"	d	file:
+SET_INF	stdaln.c	238;"	d	file:
+SET_LIST_BIT	regex.c	2218;"	d	file:
+SET_REGS_MATCHED	regex.c	1890;"	d	file:
+SIGN_EXTEND_CHAR	regex.c	252;"	d	file:
+SIGN_EXTEND_CHAR	regex.c	254;"	d	file:
+SIGN_EXTEND_CHAR	regex.c	257;"	d	file:
+STDALN_INTERFACE_H	stdaln_interface.h	19;"	d
+STDALN_VERSION	stdaln.h	27;"	d
+STORE_JUMP	regex.c	2044;"	d	file:
+STORE_JUMP	regex.c	8330;"	d	file:
+STORE_JUMP2	regex.c	2048;"	d	file:
+STORE_JUMP2	regex.c	8331;"	d	file:
+STORE_NUMBER	regex.c	648;"	d	file:
+STORE_NUMBER	regex.c	653;"	d	file:
+STORE_NUMBER	regex.c	8294;"	d	file:
+STORE_NUMBER_AND_INCR	regex.c	665;"	d	file:
+STORE_NUMBER_AND_INCR	regex.c	8295;"	d	file:
+STREQ	regex.c	395;"	d	file:
+STRUCT_H_LTR_FINDER	struct.h	19;"	d
+SWITCH_ENUM_CAST	regex.c	175;"	d	file:
+SWITCH_ENUM_CAST	regex.c	177;"	d	file:
+SYNTAX	regex.c	295;"	d	file:
+ScoreCompensate	PairsFilter.cpp	/^void ScoreCompensate(char* myString, TG_CA_TSR& tct)$/;"	f
+Search	PBS.cpp	/^int PBS::Search(char* str, int len, string& name,$/;"	f	class:PBS
+Search	PBS.cpp	/^int PPT::Search(char *string, int len, int& begin, int& match_count)$/;"	f	class:PPT
+Sensitive	main.cpp	/^float Sensitive = 0.0;$/;"	v
+Sharpness	PairsFilter.cpp	/^float Sharpness(char* str, int len, int pos)$/;"	f
+ShorterAlignStr	PairsFilter.cpp	/^void ShorterAlignStr(string& str)$/;"	f
+Sword	regex.c	171;"	d	file:
+TALLOC	regex.c	387;"	d	file:
+TG	struct.h	/^	short TG;$/;"	m	struct:TSR
+TG_CA_TSR	struct.h	/^struct TG_CA_TSR$/;"	s
+TIMING_H	Timing.h	9;"	d
+TOLOWER	regex.c	239;"	d	file:
+TOLOWER	regex.c	241;"	d	file:
+TRANSLATE	regex.c	1989;"	d	file:
+TRANSLATE	regex.c	1993;"	d	file:
+TRANSLATE	regex.c	8323;"	d	file:
+TRUE	regex.c	625;"	d	file:
+TSR	struct.h	/^struct TSR$/;"	s
+TSRmax	main.cpp	/^int TSRmax = 6;$/;"	v
+TSRmin	main.cpp	/^int TSRmin = 4;$/;"	v
+TableOutputMotif	main.cpp	/^void TableOutputMotif(vector<MOTIF>& motif, string name,bool forward)$/;"	f
+Timing	Timing.C	/^Timing::Timing()$/;"	f	class:Timing
+Timing	Timing.h	/^class Timing$/;"	c
+UCHAR_T	regex.c	608;"	d	file:
+UCHAR_T	regex.c	617;"	d	file:
+UCHAR_T	regex.c	8350;"	d	file:
+WCHAR	regex.c	629;"	d	file:
+WCHAR	regex.c	8358;"	d	file:
+WIDE_CHAR_SUPPORT	regex.c	52;"	d	file:
+WORDCHAR_P	regex.c	5420;"	d	file:
+WORDCHAR_P	regex.c	5426;"	d	file:
+WORDCHAR_P	regex.c	8343;"	d	file:
+WORK_BUFFER_SIZE	regex.c	6307;"	d	file:
+WORK_BUFFER_SIZE	regex.c	6696;"	d	file:
+_GNU_SOURCE	regex.c	28;"	d	file:
+_GNU_SOURCE	regex.c	29;"	d	file:
+_PBS	struct.h	/^    bool _PBS;$/;"	m	struct:PBS_PPT
+_PBS_begin	struct.h	/^    int _PBS_begin;$/;"	m	struct:PBS_PPT
+_PBS_end	struct.h	/^    int _PBS_end;$/;"	m	struct:PBS_PPT
+_PBS_name	struct.h	/^    string _PBS_name;$/;"	m	struct:PBS_PPT
+_PPT	struct.h	/^    bool _PPT;$/;"	m	struct:PBS_PPT
+_PPT_begin	struct.h	/^    int _PPT_begin;$/;"	m	struct:PBS_PPT
+_PPT_count	struct.h	/^    int _PPT_count;$/;"	m	struct:PBS_PPT
+_REGEX_H	regex.h	23;"	d
+_RE_ARGS	regex.h	439;"	d
+_RE_ARGS	regex.h	443;"	d
+_RE_SYNTAX_POSIX_COMMON	regex.h	215;"	d
+__restrict	regex.h	526;"	d
+__restrict	regex.h	528;"	d
+__restrict_arr	regex.h	535;"	d
+_pbs_str	struct.h	/^    string _pbs_str;$/;"	m	struct:PBS_PPT
+_tRNA	PBS.h	/^    vector< string > _tRNA;$/;"	m	class:PBS
+_tRNA_name	PBS.h	/^    vector< string > _tRNA_name;$/;"	m	class:PBS
+aa_file	CallPsScan.h	/^    string aa_file;$/;"	m	class:CPSSCAN
+aa_file	DetectDomain.h	/^    string aa_file;$/;"	m	class:CPSSCAN
+active_reg_t	regex.h	/^typedef unsigned long int active_reg_t;$/;"	t
+after	Timing.h	/^  timeval after;$/;"	m	class:Timing
+after_dot	regex.c	/^  after_dot,	\/* Succeeds if after point.  *\/$/;"	e	file:
+alloca	regex.c	327;"	d	file:
+allocated	regex.h	/^  unsigned long int allocated;$/;"	m	struct:re_pattern_buffer
+aln_aa_rev_table	stdaln.c	/^char *aln_aa_rev_table = "ARNDCQEGHILKMFPSTWYV*X-";$/;"	v
+aln_aa_table	stdaln.c	/^unsigned char aln_aa_table[256] = {$/;"	v
+aln_free_AlnAln	stdaln.c	/^void aln_free_AlnAln(AlnAln *aa)$/;"	f
+aln_global_core	stdaln.c	/^int aln_global_core(unsigned char *seq1, int len1, unsigned char *seq2, int len2, const AlnParam *ap,$/;"	f
+aln_init_AlnAln	stdaln.c	/^AlnAln *aln_init_AlnAln()$/;"	f
+aln_init_score_array	stdaln.c	/^void aln_init_score_array(unsigned char *seq, int len, int row, int *score_matrix, int **s_array)$/;"	f
+aln_local_core	stdaln.c	/^int aln_local_core(unsigned char *seq1, int len1, unsigned char *seq2, int len2, const AlnParam *ap,$/;"	f
+aln_nt16_rev_table	stdaln.c	/^char *aln_nt16_rev_table = "XAGRCMSVTWKDYHBN-";$/;"	v
+aln_nt16_table	stdaln.c	/^unsigned char aln_nt16_table[256] = {$/;"	v
+aln_nt4_rev_table	stdaln.c	/^char *aln_nt4_rev_table = "AGCTN-";$/;"	v
+aln_nt4_table	stdaln.c	/^unsigned char aln_nt4_table[256] = {$/;"	v
+aln_param_aa2aa	stdaln.c	/^AlnParam aln_param_aa2aa   = { 12,  2,  2, aln_sm_blosum62, 22, 50 };$/;"	v
+aln_param_nt2nt	stdaln.c	/^AlnParam aln_param_nt2nt   = { 10,  2,  2, aln_sm_nt, 16, 75 };$/;"	v
+aln_param_rd2rd	stdaln.c	/^AlnParam aln_param_rd2rd   = { 20, 19, 19, aln_sm_read, 16, 75 };$/;"	v
+aln_sm_blosum45	stdaln.c	/^int aln_sm_blosum45[] = {$/;"	v
+aln_sm_blosum62	stdaln.c	/^int aln_sm_blosum62[] = {$/;"	v
+aln_sm_hs	stdaln.c	/^int aln_sm_hs[] = {$/;"	v
+aln_sm_nt	stdaln.c	/^int aln_sm_nt[] = {$/;"	v
+aln_sm_read	stdaln.c	/^int aln_sm_read[] = {$/;"	v
+aln_stdaln	stdaln.c	/^AlnAln *aln_stdaln(const char *seq1, const char *seq2, const AlnParam *ap, int is_global)$/;"	f
+aln_stdaln_aux	stdaln.c	/^AlnAln *aln_stdaln_aux(const char *seq1, const char *seq2, const AlnParam *ap, int is_global, int len1, int len2)$/;"	f
+aln_trans_table_eu	stdaln.c	/^unsigned char aln_trans_table_eu[66] = {$/;"	v
+aln_trans_table_eu_char	stdaln.c	/^char *aln_trans_table_eu_char = "KKNNRRSSTTTTIMIIEEDDGGGGAAAAVVVVQQHHRRRRPPPPLLLL**YY*WCCSSSSLLFFX";$/;"	v
+alt_match_null_string_p	regex.c	/^PREFIX(alt_match_null_string_p) (p, end, reg_info)$/;"	f	file:
+anychar	regex.c	/^  anychar,$/;"	e	file:
+assert	regex.c	1226;"	d	file:
+assert	regex.c	1227;"	d	file:
+at_begline_loc_p	regex.c	/^PREFIX(at_begline_loc_p) (pattern, p, syntax)$/;"	f	file:
+at_dot	regex.c	/^  at_dot,	\/* Succeeds if at point.  *\/$/;"	e	file:
+at_endline_loc_p	regex.c	/^PREFIX(at_endline_loc_p) (p, pend, syntax)$/;"	f	file:
+avail	regex.c	/^  unsigned avail;			\/* Offset of next open position.  *\/$/;"	m	file:
+avail	regex.c	/^  unsigned long int avail;		\/* Offset of next open position.  *\/$/;"	m	file:
+band_width	stdaln.h	/^	int band_width;$/;"	m
+bcmp_translate	regex.c	/^PREFIX(bcmp_translate) (s1, s2, len, translate)$/;"	f	file:
+before	Timing.h	/^  timeval before;$/;"	m	class:Timing
+before_dot	regex.c	/^  ,before_dot,	\/* Succeeds if before point.  *\/$/;"	e	file:
+begalt_offset	regex.c	/^  pattern_offset_t begalt_offset;$/;"	m	file:
+begbuf	regex.c	/^  begbuf,$/;"	e	file:
+begin	CallPsScan.h	/^    int begin;$/;"	m	struct:MetaDomain
+begin	struct.h	/^    int begin;$/;"	m	struct:MOTIF
+begin2	CallPsScan.h	/^    int begin2;$/;"	m	struct:MetaDomain
+begline	regex.c	/^  begline,$/;"	e	file:
+best_regend	regex.c	/^static const char **best_regstart, **best_regend;$/;"	v	file:
+best_regstart	regex.c	/^static const char **best_regstart, **best_regend;$/;"	v	file:
+bits	regex.c	/^  } bits;$/;"	m	file:
+boolean	regex.c	/^typedef char boolean;$/;"	t	file:
+btowc	regex.c	84;"	d	file:
+buffer	regex.h	/^  unsigned char *buffer;$/;"	m	struct:re_pattern_buffer
+bufp	regex.c	/^     struct re_pattern_buffer *bufp;$/;"	v
+byte_compile_range	regex.c	/^byte_compile_range (range_start_char, p_ptr, pend, translate, syntax, b)$/;"	f	file:
+bzero	regex.c	150;"	d	file:
+bzero	regex.c	152;"	d	file:
+c2i	CallPsScan.h	/^    char c2i[128];$/;"	m	class:CPSSCAN
+c2i	DetectDomain.h	/^    char c2i[128];$/;"	m	class:CPSSCAN
+ca_pos1	struct.h	/^    int ca_pos1;$/;"	m	struct:TG_CA_TSR
+ca_pos1	struct.h	/^    int ca_pos1;$/;"	m	struct:stick
+ca_pos2	struct.h	/^    int ca_pos2;$/;"	m	struct:TG_CA_TSR
+ca_pos2	struct.h	/^    int ca_pos2;$/;"	m	struct:stick
+can_be_null	regex.h	/^  unsigned can_be_null : 1;$/;"	m	struct:re_pattern_buffer
+candi	struct.h	/^	vector < candidate > candi;$/;"	m	struct:stick
+candidate	struct.h	/^struct candidate$/;"	s
+charset	regex.c	/^  charset,$/;"	e	file:
+charset_not	regex.c	/^  charset_not,$/;"	e	file:
+cmd	CallPsScan.h	/^    string cmd;$/;"	m	class:CPSSCAN
+cmd	DetectDomain.h	/^    string cmd;$/;"	m	class:CPSSCAN
+common_op_match_null_string_p	regex.c	/^PREFIX(common_op_match_null_string_p) (p, end, reg_info)$/;"	f	file:
+compile_stack_elt_t	regex.c	/^} compile_stack_elt_t;$/;"	t	file:
+compile_stack_type	regex.c	/^} compile_stack_type;$/;"	t	file:
+complement_nucleotide	PBS.cpp	/^char complement_nucleotide(char ch) {$/;"	f
+construct_ArrayB_typeL	LinearSuffixSort.cpp	/^void construct_ArrayB_typeL(const int* ArrayA, const int inputLength, $/;"	f
+construct_ArrayB_typeS	LinearSuffixSort.cpp	/^void construct_ArrayB_typeS(const int* ArrayA, const int inputLength, $/;"	f
+construct_SA_typeL	LinearSuffixSort.cpp	/^void construct_SA_typeL(int* ArrayB, const int ArrayBLength,$/;"	f
+construct_SA_typeS	LinearSuffixSort.cpp	/^void construct_SA_typeS(int* ArrayB, const int ArrayBLength,$/;"	f
+construct_TPrime_typeL	LinearSuffixSort.cpp	/^void construct_TPrime_typeL(int* ArrayB, const int ArrayBLength,$/;"	f
+construct_TPrime_typeS	LinearSuffixSort.cpp	/^void construct_TPrime_typeS(int* ArrayB, const int ArrayBLength,$/;"	f
+construct_list_typeL	LinearSuffixSort.cpp	/^int* construct_list_typeL(int*& ArrayA, const int inputLength, int* Dist, $/;"	f
+construct_list_typeS	LinearSuffixSort.cpp	/^int* construct_list_typeS(int*& ArrayA, const int inputLength, int* Dist, $/;"	f
+convert_mbs_to_wcs	regex.c	/^convert_mbs_to_wcs (dest, src, len, offset_buffer, is_binary)$/;"	f	file:
+count_mbs_length	regex.c	/^count_mbs_length(offset_buffer, length)$/;"	f	file:
+counting_sort	LinearSuffixSort.cpp	/^void counting_sort(const char* inputString, const int inputLength, $/;"	f
+counting_sort	LinearSuffixSort.cpp	/^void counting_sort(const int* inputString, const int inputLength, $/;"	f
+ctype	stdaln.h	/^	unsigned char ctype;$/;"	m
+debug	regex.c	/^static int debug;$/;"	v	file:
+dec2bin	main.cpp	/^string dec2bin(int dec)$/;"	f
+delta	PBS.h	/^    int delta;$/;"	m	class:PPT
+domain	CallPsScan.h	/^    char domain[8];\/\/1 2 3 4 5 6 7 meta domain$/;"	m	struct:MetaDomain
+dpcell_t	stdaln.c	/^} dpcell_t;$/;"	t	file:
+dpscore_t	stdaln.c	/^} dpscore_t;$/;"	t	file:
+dummy_failure_jump	regex.c	/^  dummy_failure_jump,$/;"	e	file:
+duplicate	regex.c	/^  duplicate,$/;"	e	file:
+end	regex.h	/^  regoff_t *end;$/;"	m	struct:re_registers
+end	struct.h	/^    int end;$/;"	m	struct:MOTIF
+end1	stdaln.h	/^	int start1, end1; \/* start and end of the first sequence, coordinations are 1-based *\/$/;"	m
+end1	struct.h	/^	int end1;$/;"	m	struct:stick
+end2	stdaln.h	/^	int start2, end2; \/* start and end of the second sequence, coordinations are 1-based *\/$/;"	m
+end2	struct.h	/^	int end2;$/;"	m	struct:stick
+endbuf	regex.c	/^  endbuf,$/;"	e	file:
+endline	regex.c	/^  endline,$/;"	e	file:
+ends	regex.c	/^    regoff_t *starts, *ends;$/;"	v
+ever_matched_something	regex.c	/^    unsigned ever_matched_something : 1;$/;"	m	file:
+exactn	regex.c	/^  exactn,$/;"	e	file:
+exactn_bin	regex.c	/^  exactn_bin,$/;"	e	file:
+extract_number	regex.c	/^PREFIX(extract_number) (dest, source)$/;"	f	file:
+extract_number_and_incr	regex.c	/^PREFIX(extract_number_and_incr) (destination, source)$/;"	f	file:
+false	regex.c	403;"	d	file:
+fastmap	CallPsScan.h	/^    char fastmap[7][1 << 8];$/;"	m	class:CPSSCAN
+fastmap	regex.h	/^  char *fastmap;$/;"	m	struct:re_pattern_buffer
+fastmap_accurate	regex.h	/^  unsigned fastmap_accurate : 1;$/;"	m	struct:re_pattern_buffer
+findMaxMin	LinearSuffixSort.cpp	/^inline void findMaxMin(const char* inputString, const int inputLength, $/;"	f
+findMaxMin	LinearSuffixSort.cpp	/^inline void findMaxMin(const int* inputString, const int inputLength, $/;"	f
+findMaxMin	LinearSuffixSort.h	/^inline void findMaxMin(const char* inputString, const int inputLength, $/;"	f
+findMaxMin	LinearSuffixSort.h	/^inline void findMaxMin(const int* inputString, const int inputLength, $/;"	f
+first	CallPsScan.h	/^    int first;$/;"	m	struct:CRegion
+first	DetectDomain.h	/^    int first;$/;"	m	struct:CRegion
+fixup_alt_jump	regex.c	/^  pattern_offset_t fixup_alt_jump;$/;"	m	file:
+forward	struct.h	/^    bool forward;\/\/y or n$/;"	m	struct:MOTIF
+frame	CallPsScan.h	/^    char frame[8];\/\/their phase$/;"	m	struct:MetaDomain
+frame	struct.h	/^    int frame;\/\/0,1,2$/;"	m	struct:MOTIF
+gap_end	stdaln.h	/^	int gap_end;$/;"	m
+gap_end	stdaln_interface.cpp	/^int gap_end = 1;$/;"	v
+gap_ext	stdaln.h	/^	int gap_ext;$/;"	m
+gap_ext	stdaln_interface.cpp	/^int gap_ext = 1;$/;"	v
+gap_open	stdaln.h	/^	int gap_open;$/;"	m
+gap_open	stdaln_interface.cpp	/^int gap_open = 3;		\/\/add by xz	$/;"	v
+getVal	BooleanString.C	/^bool BooleanString::getVal(const int index) const $/;"	f	class:BooleanString
+getValN	BooleanString.h	/^inline int BooleanString::getValN(const int index) const$/;"	f	class:BooleanString
+gettext	regex.c	101;"	d	file:
+gettext	regex.c	97;"	d	file:
+gettext	regex.c	98;"	d	file:
+gettext_noop	regex.c	107;"	d	file:
+gettimeofday	Timing.C	/^int gettimeofday(timeval* time)$/;"	f
+global_align	stdaln_interface.cpp	/^int global_align(const char* str1,int begin1,int end1,const char* str2,int begin2,int end2)$/;"	f
+group_in_compile_stack	regex.c	/^group_in_compile_stack (compile_stack, regnum)$/;"	f	file:
+group_match_null_string_p	regex.c	/^PREFIX(group_match_null_string_p) (p, end, reg_info)$/;"	f	file:
+has_metadomain	CallPsScan.cpp	/^bool CPSSCAN::has_metadomain(MetaDomain& domain, char name)$/;"	f	class:CPSSCAN
+i	stdaln.h	/^	int i, j;$/;"	m
+init	CallPsScan.cpp	/^void CPSSCAN::init(char* p)$/;"	f	class:CPSSCAN
+init	DetectDomain.cpp	/^void CPSSCAN::init(char* p)$/;"	f	class:CPSSCAN
+init	PBS.cpp	/^void PBS::init()$/;"	f	class:PBS
+init	PBS.cpp	/^void PPT::init()$/;"	f	class:PPT
+init_syntax_once	regex.c	/^init_syntax_once ()$/;"	f	file:
+initialize	BooleanString.C	/^void BooleanString::initialize(const int strLength) $/;"	f	class:BooleanString
+innerDist	CallPsScan.h	/^    int innerDist[6];$/;"	m	class:CPSSCAN
+inner_group_offset	regex.c	/^  pattern_offset_t inner_group_offset;$/;"	m	file:
+insert_op1	regex.c	/^PREFIX(insert_op1) (op, loc, arg, end)$/;"	f	file:
+insert_op2	regex.c	/^PREFIX(insert_op2) (op, loc, arg1, arg2, end)$/;"	f	file:
+insert_space	regex.c	/^insert_space (num, loc, end)$/;"	f	file:
+isAllFalse	BooleanString.C	/^bool BooleanString::isAllFalse() const $/;"	f	class:BooleanString
+isAllTrue	BooleanString.C	/^bool BooleanString::isAllTrue() const $/;"	f	class:BooleanString
+isReady	CallPsScan.cpp	/^bool CPSSCAN::isReady()$/;"	f	class:CPSSCAN
+isReady	DetectDomain.cpp	/^bool CPSSCAN::isReady()$/;"	f	class:CPSSCAN
+is_active	regex.c	/^    unsigned is_active : 1;$/;"	m	file:
+j	stdaln.h	/^	int i, j;$/;"	m
+join_metadomain	CallPsScan.cpp	/^void CPSSCAN::join_metadomain()$/;"	f	class:CPSSCAN
+jump	regex.c	/^  jump,$/;"	e	file:
+jump_n	regex.c	/^  jump_n,$/;"	e	file:
+jump_past_alt	regex.c	/^  jump_past_alt,$/;"	e	file:
+l	seq.h	/^	int l, m; \/* length and maximum buffer size *\/$/;"	m
+l_distance	LinearSuffixSort.cpp	/^void l_distance(const BooleanString& suffixType, $/;"	f
+l_distanceR	LinearSuffixSort.cpp	/^void l_distanceR(const BooleanString& suffixType, $/;"	f
+laststart_offset	regex.c	/^  pattern_offset_t laststart_offset;$/;"	m	file:
+lcp	lcp.c	/^lcp(const int *a, const char *s, int n) $/;"	f
+lcpa	lcp.c	/^lcpa(const int *a, const char *s0, int *lcp, int n)$/;"	f
+len	struct.h	/^	int len;$/;"	m	struct:TSR
+len	struct.h	/^	int len;$/;"	m	struct:candidate
+len1	struct.h	/^	int len1;$/;"	m	struct:stick
+len2	struct.h	/^	int len2;$/;"	m	struct:stick
+lpos	struct.h	/^	int lpos;$/;"	m	struct:TSR
+m	seq.h	/^	int l, m; \/* length and maximum buffer size *\/$/;"	m
+main	main.cpp	/^int main (int argc, char *argv[])$/;"	f
+markbeg	Timing.C	/^int Timing::markbeg()$/;"	f	class:Timing
+markend	Timing.C	/^int Timing::markend()$/;"	f	class:Timing
+match_len	struct.h	/^    int match_len;$/;"	m	struct:stick
+match_null_string_p	regex.c	/^    unsigned match_null_string_p : 2;$/;"	m	file:
+match_score	struct.h	/^    float match_score;$/;"	m	struct:stick
+matched_something	regex.c	/^    unsigned matched_something : 1;$/;"	m	file:
+matrix	stdaln.h	/^	int *matrix;$/;"	m
+matrix2domain	main.cpp	/^string matrix2domain(const string& m)$/;"	f
+matrix2modul	main.cpp	/^int matrix2modul(string& m)$/;"	f
+maybe_pop_jump	regex.c	/^  maybe_pop_jump,$/;"	e	file:
+md	CallPsScan.h	/^    vector<MetaDomain> md;$/;"	m	class:CPSSCAN
+memcmp	regex.c	158;"	d	file:
+memcpy	regex.c	161;"	d	file:
+minLen	PBS.h	/^    int minLen;$/;"	m	class:PBS
+minOutScore	main.cpp	/^float minOutScore=6.0;$/;"	v
+minSharpness	main.cpp	/^float minSharpness=0.43;$/;"	v
+motif	CallPsScan.h	/^    vector<MOTIF> motif; $/;"	m	class:CPSSCAN
+motif	DetectDomain.h	/^    vector<MOTIF> motif; $/;"	m	class:CPSSCAN
+motif	struct.h	/^    vector<MOTIF> motif;$/;"	m	struct:stick
+motif_file	CallPsScan.h	/^    string motif_file;$/;"	m	class:CPSSCAN
+motif_file	DetectDomain.h	/^    string motif_file;$/;"	m	class:CPSSCAN
+myBooleanString	BooleanString.h	/^  char* myBooleanString;$/;"	m	class:BooleanString
+myStringLength	BooleanString.h	/^  int myStringLength;$/;"	m	class:BooleanString
+name	CallPsScan.h	/^    char name;$/;"	m	struct:MetaDomain
+name	struct.h	/^    string name;$/;"	m	struct:MOTIF
+name2	CallPsScan.h	/^    char name2;$/;"	m	struct:MetaDomain
+newline_anchor	regex.h	/^  unsigned newline_anchor : 1;$/;"	m	struct:re_pattern_buffer
+no_op	regex.c	/^  no_op = 0,$/;"	e	file:
+no_sub	regex.h	/^  unsigned no_sub : 1;$/;"	m	struct:re_pattern_buffer
+not_bol	regex.h	/^  unsigned not_bol : 1;$/;"	m	struct:re_pattern_buffer
+not_eol	regex.h	/^  unsigned not_eol : 1;$/;"	m	struct:re_pattern_buffer
+notsyntaxspec	regex.c	/^  notsyntaxspec$/;"	e	file:
+notwordbound	regex.c	/^  notwordbound	\/* Succeeds if not at a word boundary.  *\/$/;"	e	file:
+notwordchar	regex.c	/^  notwordchar,	\/* Matches any char that is not a word-constituent.  *\/$/;"	e	file:
+numChar	BooleanString.h	/^  int numChar;$/;"	m	class:BooleanString
+num_regs	regex.c	/^    unsigned num_regs;$/;"	v
+num_regs	regex.h	/^  unsigned num_regs;$/;"	m	struct:re_registers
+old_regend	regex.c	/^static const char ** old_regstart, ** old_regend;$/;"	v	file:
+old_regstart	regex.c	/^static const char ** old_regstart, ** old_regend;$/;"	v	file:
+on_failure_jump	regex.c	/^  on_failure_jump,$/;"	e	file:
+on_failure_keep_string_jump	regex.c	/^  on_failure_keep_string_jump,$/;"	e	file:
+operator <	CallPsScan.h	/^    bool operator < (const CRegion& a) const$/;"	f	struct:CRegion
+operator <	CallPsScan.h	/^    bool operator < (const MetaDomain& a) const$/;"	f	struct:MetaDomain
+operator <	DetectDomain.h	/^    bool operator < (const CRegion& a) const$/;"	f	struct:CRegion
+operator <	struct.h	/^	bool operator < (const TSR & a) const$/;"	f	struct:TSR
+operator <	struct.h	/^    bool operator < (const MOTIF & a) const$/;"	f	struct:MOTIF
+operator <	struct.h	/^    bool operator < (const TG_CA_TSR & a) const$/;"	f	struct:TG_CA_TSR
+operator <	struct.h	/^    bool operator < (const stick & a) const$/;"	f	struct:stick
+out1	stdaln.h	/^	char *out1, *out2; \/* print them, and then you will know *\/$/;"	m
+out2	stdaln.h	/^	char *out1, *out2; \/* print them, and then you will know *\/$/;"	m
+outAlignLen	main.cpp	/^int outAlignLen=40;$/;"	v
+outm	stdaln.h	/^	char *outm;$/;"	m
+outstr	PairsFilter.cpp	/^void outstr(char *str, int pos, int len)$/;"	f
+outstr1	PBS.cpp	/^void outstr1 (char *str, int pos, int len)$/;"	f
+outstring	LinearSuffixSort.cpp	/^void outstring(const char* inputString, const int stringLength,$/;"	f
+outstring	LinearSuffixSort.cpp	/^void outstring(const int* inputString, const int stringLength)$/;"	f
+outstring3	LinearSuffixSort.cpp	/^void outstring3(const int* inputString, const int stringLength)$/;"	f
+outstringS	LinearSuffixSort.cpp	/^void outstringS(const int* inputString, const int stringLength)$/;"	f
+outsubstring	LinearSuffixSort.cpp	/^void outsubstring(const int* intString, const int intStringLen,$/;"	f
+outsuffix	LinearSuffixSort.cpp	/^void outsuffix(const int* intString, const int intStringLen,$/;"	f
+outtime	Timing.C	/^void Timing::outtime()$/;"	f	class:Timing
+outtime	Timing.C	/^void Timing::outtime(const char* m_before, const char* m_after)$/;"	f	class:Timing
+outtime	Timing.C	/^void Timing::outtime(const char* message)$/;"	f	class:Timing
+p_begin	struct.h	/^    vector<int> p_begin;\/\/full-protein-begin$/;"	m	struct:MOTIF
+p_end	struct.h	/^    vector<int> p_end;\/\/full-protein-end$/;"	m	struct:MOTIF
+patLen	CallPsScan.h	/^    int patLen[7];$/;"	m	class:CPSSCAN
+path	CallPsScan.h	/^    string path;$/;"	m	class:CPSSCAN
+path	DetectDomain.h	/^    string path;$/;"	m	class:CPSSCAN
+path	stdaln.h	/^	path_t *path; \/* for advanced users... :-) *\/$/;"	m
+path_len	stdaln.h	/^	int path_len; \/* for advanced users... :-) *\/$/;"	m
+path_t	stdaln.h	/^} path_t;$/;"	t
+pattern_buffer	CallPsScan.h	/^    struct re_pattern_buffer pattern_buffer[7];$/;"	m	class:CPSSCAN
+pattern_offset_t	regex.c	/^typedef long pattern_offset_t;$/;"	t	file:
+pbs_str	struct.h	/^    string pbs_str;$/;"	m	struct:PBS_PPT
+phase	CallPsScan.h	/^    char phase;$/;"	m	struct:MetaDomain
+phase2	CallPsScan.h	/^    char phase2;$/;"	m	struct:MetaDomain
+pop_failure_jump	regex.c	/^  pop_failure_jump,$/;"	e	file:
+pos1	struct.h	/^	int pos1;$/;"	m	struct:candidate
+pos1	struct.h	/^	int pos1;$/;"	m	struct:stick
+pos1_sort	struct.h	/^static bool pos1_sort (const candidate & a, const candidate & b)$/;"	f
+pos2	struct.h	/^	int pos2;$/;"	m	struct:candidate
+pos2	struct.h	/^	int pos2;$/;"	m	struct:stick
+pos2_sort	struct.h	/^static bool pos2_sort (const candidate & a, const candidate & b)$/;"	f
+pp	struct.h	/^    PBS_PPT pp;$/;"	m	struct:stick
+printAll	BooleanString.C	/^void BooleanString::printAll(const char* strSpace) const $/;"	f	class:BooleanString
+printAll	BooleanString.C	/^void BooleanString::printAll(const char* strSpace, $/;"	f	class:BooleanString
+print_compiled_pattern	regex.c	/^PREFIX(print_compiled_pattern) (bufp)$/;"	f
+print_double_string	regex.c	/^PREFIX(print_double_string) (where, string1, size1, string2, size2)$/;"	f
+print_fastmap	regex.c	/^print_fastmap (fastmap)$/;"	f
+print_partial_compiled_pattern	regex.c	/^PREFIX(print_partial_compiled_pattern) (start, end)$/;"	f
+printchar	regex.c	/^printchar (c)$/;"	f
+push_dummy_failure	regex.c	/^  push_dummy_failure,$/;"	e	file:
+push_metadomain	CallPsScan.cpp	/^void CPSSCAN::push_metadomain(const char* seq, int begin, int len, int frame)$/;"	f	class:CPSSCAN
+push_motif	CallPsScan.cpp	/^void CPSSCAN::push_motif(int len)$/;"	f	class:CPSSCAN
+rSearch	PBS.cpp	/^int PBS::rSearch(char* str, int len, string& name,$/;"	f	class:PBS
+rSearch	PBS.cpp	/^int PPT::rSearch(char *string, int len, int& begin, int& match_count)$/;"	f	class:PPT
+range	regex.c	/^     int range;$/;"	v
+range	regex.c	/^     int size, startpos, range;$/;"	v
+re_compile_fastmap	regex.c	/^PREFIX(re_compile_fastmap) (bufp)$/;"	f	file:
+re_compile_fastmap	regex.c	/^re_compile_fastmap (bufp)$/;"	f
+re_compile_fastmap	regex.c	82;"	d	file:
+re_compile_pattern	regex.c	77;"	d	file:
+re_error_msgid	regex.c	/^static const char re_error_msgid[] =$/;"	v	file:
+re_error_msgid_idx	regex.c	/^static const size_t re_error_msgid_idx[] =$/;"	v	file:
+re_match	regex.c	73;"	d	file:
+re_match_2	regex.c	71;"	d	file:
+re_max_failures	regex.c	/^int re_max_failures = 2000;$/;"	v
+re_max_failures	regex.c	/^int re_max_failures = 4000;$/;"	v
+re_max_failures	regex.c	/^long int re_max_failures = 2000;$/;"	v
+re_max_failures	regex.c	/^long int re_max_failures = 4000;$/;"	v
+re_nsub	regex.h	/^  size_t re_nsub;$/;"	m	struct:re_pattern_buffer
+re_opcode_t	regex.c	/^} re_opcode_t;$/;"	t	file:
+re_pattern_buffer	regex.h	/^struct re_pattern_buffer$/;"	s
+re_registers	regex.h	/^struct re_registers$/;"	s
+re_search	regex.c	75;"	d	file:
+re_search_2	regex.c	/^PREFIX(re_search_2) (bufp, string1, size1, string2, size2, startpos, range,$/;"	f	file:
+re_search_2	regex.c	80;"	d	file:
+re_set_registers	regex.c	69;"	d	file:
+re_set_syntax	regex.c	/^re_set_syntax (syntax)$/;"	f
+re_set_syntax	regex.c	79;"	d	file:
+re_syntax_options	regex.c	/^reg_syntax_t re_syntax_options;$/;"	v
+re_syntax_table	regex.c	/^static char re_syntax_table[CHAR_SET_SIZE];$/;"	v	file:
+read_fasta	LinearSuffixSort.cpp	/^void read_fasta(ifstream& inFile, char*& inputString, int& inputLength)$/;"	f
+read_fasta	seq.c	/^int read_fasta(FILE *fp, seq_t *seq, char *locus, char *comment)$/;"	f
+read_input	LinearSuffixSort.cpp	/^void read_input(ifstream& inFile, char*& inputString, int& inputLength)$/;"	f
+read_qual	seq.c	/^int read_qual(FILE *fp, seq_t *seq, char *locus, char *comment)$/;"	f
+ready	CallPsScan.h	/^    bool ready;$/;"	m	class:CPSSCAN
+ready	DetectDomain.h	/^    bool ready;$/;"	m	class:CPSSCAN
+reconstruct_B_typeL	LinearSuffixSort.cpp	/^void reconstruct_B_typeL(int* ArrayB, const int ArrayBLength,$/;"	f
+reconstruct_B_typeS	LinearSuffixSort.cpp	/^void reconstruct_B_typeS(int* ArrayB, const int ArrayBLength,$/;"	f
+reg_dummy	regex.c	/^static const char **reg_dummy;$/;"	v	file:
+reg_errcode_t	regex.h	/^} reg_errcode_t;$/;"	t
+reg_syntax_t	regex.h	/^typedef unsigned long int reg_syntax_t;$/;"	t
+regcomp	regex.c	66;"	d	file:
+regend	regex.c	/^static const char **     regstart, **     regend;$/;"	v	file:
+regerror	regex.c	67;"	d	file:
+regex_grow_registers	regex.c	/^PREFIX(regex_grow_registers) (num_regs)$/;"	f	file:
+regex_t	regex.h	/^typedef struct re_pattern_buffer regex_t;$/;"	t
+regexec	regex.c	65;"	d	file:
+regfree	regex.c	64;"	d	file:
+region	CallPsScan.h	/^    vector< CRegion > region;$/;"	m	class:CPSSCAN
+region	DetectDomain.h	/^    vector< CRegion > region;$/;"	m	class:CPSSCAN
+regmatch_t	regex.h	/^} regmatch_t;$/;"	t
+regnum	regex.c	/^  regnum_t regnum;$/;"	m	file:
+regnum_t	regex.c	/^typedef unsigned regnum_t;$/;"	t	file:
+regoff_t	regex.h	/^typedef int regoff_t;$/;"	t
+regs	regex.c	/^     struct re_registers *regs;$/;"	v
+regs_allocated	regex.h	/^  unsigned regs_allocated : 2;$/;"	m	struct:re_pattern_buffer
+regs_allocated_size	regex.c	/^static int regs_allocated_size;$/;"	v	file:
+regstart	regex.c	/^static const char **     regstart, **     regend;$/;"	v	file:
+reset	CallPsScan.cpp	/^void CPSSCAN::reset()$/;"	f	class:CPSSCAN
+reset	DetectDomain.cpp	/^void CPSSCAN::reset()$/;"	f	class:CPSSCAN
+rm_eo	regex.h	/^  regoff_t rm_eo;  \/* Byte offset from string's start to substring's end.  *\/$/;"	m
+rm_so	regex.h	/^  regoff_t rm_so;  \/* Byte offset from string's start to substring's start.  *\/$/;"	m
+row	stdaln.h	/^	int row;$/;"	m
+rpos	struct.h	/^	int rpos;$/;"	m	struct:TSR
+s	seq.h	/^	uchar *s; \/* sequence *\/$/;"	m
+s_distance	LinearSuffixSort.cpp	/^void s_distance(const BooleanString& suffixType, $/;"	f
+s_distanceR	LinearSuffixSort.cpp	/^void s_distanceR(const BooleanString& suffixType, $/;"	f
+s_reg_t	regex.h	/^typedef long int s_reg_t;$/;"	t
+score	CallPsScan.h	/^    char score;$/;"	m	struct:MetaDomain
+score	stdaln.h	/^	int score; \/* score *\/$/;"	m
+score	struct.h	/^	float score;$/;"	m	struct:stick
+score	struct.h	/^    int score;$/;"	m	struct:TG_CA_TSR
+score_match	stdaln_interface.cpp	/^int score_match = 2;$/;"	v
+score_mismatch	stdaln_interface.cpp	/^int score_mismatch = -2;$/;"	v
+second	CallPsScan.h	/^    int second;$/;"	m	struct:CRegion
+second	DetectDomain.h	/^    int second;$/;"	m	struct:CRegion
+seq_t	seq.h	/^} seq_t;$/;"	t
+setAll	BooleanString.C	/^void BooleanString::setAll(const bool indexVal) $/;"	f	class:BooleanString
+setVal	BooleanString.C	/^void BooleanString::setVal(const int index, const bool indexVal) $/;"	f	class:BooleanString
+setValN	BooleanString.h	/^inline void BooleanString::setValN(const int index, const int indexVal)$/;"	f	class:BooleanString
+set_D	stdaln.c	278;"	d	file:
+set_I	stdaln.c	256;"	d	file:
+set_M	stdaln.c	240;"	d	file:
+set_end_D	stdaln.c	288;"	d	file:
+set_end_I	stdaln.c	266;"	d	file:
+set_number_at	regex.c	/^  set_number_at,$/;"	e	file:
+set_score_matrix	stdaln_interface.cpp	/^void set_score_matrix(int gap_open,int gap_ext,int gap_end, int match_score,int mismatch_score)$/;"	f
+sharpness3	struct.h	/^    float sharpness3;$/;"	m	struct:stick
+sharpness5	struct.h	/^    float sharpness5;$/;"	m	struct:stick
+signal_score	struct.h	/^    float signal_score;$/;"	m	struct:TG_CA_TSR
+size	regex.c	/^     int size, startpos, range;$/;"	v
+size	regex.c	/^  unsigned long int size;$/;"	m	file:
+size	regex.c	/^  unsigned size;$/;"	m	file:
+size	regex.c	/^PREFIX(regex_compile) (ARG_PREFIX(pattern), ARG_PREFIX(size), syntax, bufp)$/;"	v
+size1	regex.c	/^     int size1, size2;$/;"	v
+size2	regex.c	/^     int size1, size2;$/;"	v
+sort_by_list_typeL	LinearSuffixSort.cpp	/^void sort_by_list_typeL(int* ArrayB, BooleanString& BuckB,$/;"	f
+sort_by_list_typeS	LinearSuffixSort.cpp	/^void sort_by_list_typeS(int* ArrayB, BooleanString& BuckB,$/;"	f
+sort_l_substringC	LinearSuffixSort.cpp	/^void sort_l_substringC(const char* inputString, const int inputLength, $/;"	f
+sort_s_substringC	LinearSuffixSort.cpp	/^void sort_s_substringC(const char* inputString, const int inputLength, $/;"	f
+stack	regex.c	/^  compile_stack_elt_t *stack;$/;"	m	file:
+start	regex.h	/^  regoff_t *start;$/;"	m	struct:re_registers
+start1	stdaln.h	/^	int start1, end1; \/* start and end of the first sequence, coordinations are 1-based *\/$/;"	m
+start2	stdaln.h	/^	int start2, end2; \/* start and end of the second sequence, coordinations are 1-based *\/$/;"	m
+start_memory	regex.c	/^  start_memory,$/;"	e	file:
+startpos	regex.c	/^     int size, startpos, range;$/;"	v
+startpos	regex.c	/^     int startpos;$/;"	v
+starts	regex.c	/^    regoff_t *starts, *ends;$/;"	v
+status	struct.h	/^    int status;$/;"	m	struct:TG_CA_TSR
+status	struct.h	/^    int status;$/;"	m	struct:stick
+stick	struct.h	/^    stick():status(0),tsr_len(0),tg_pos1(-1),ca_pos1(-1),tg_pos2(-1),ca_pos2(-1),strand(0),score(0),match_score(0){};$/;"	f	struct:stick
+stick	struct.h	/^struct stick$/;"	s
+stick_pos1_sort	struct.h	/^static bool stick_pos1_sort (const stick & a, const stick & b)$/;"	f
+stop	regex.c	/^     int stop;$/;"	v
+stop_memory	regex.c	/^  stop_memory,$/;"	e	file:
+store_op1	regex.c	/^PREFIX(store_op1) (op, loc, arg)$/;"	f	file:
+store_op2	regex.c	/^PREFIX(store_op2) (op, loc, arg1, arg2)$/;"	f	file:
+strand	struct.h	/^    int strand;$/;"	m	struct:stick
+strand_str	struct.h	/^    string strand_str;$/;"	m	struct:stick
+succeed	regex.c	/^  succeed,$/;"	e	file:
+succeed_n	regex.c	/^  succeed_n,$/;"	e	file:
+suffix_type	LinearSuffixSort.cpp	/^void suffix_type(const char* inputString, const int inputLength, $/;"	f
+suffix_type	LinearSuffixSort.cpp	/^void suffix_type(const int* inputString, const int inputLength, $/;"	f
+syntax	regex.c	/^     reg_syntax_t syntax;$/;"	v
+syntax	regex.c	/^PREFIX(regex_compile) (ARG_PREFIX(pattern), ARG_PREFIX(size), syntax, bufp)$/;"	v
+syntax	regex.h	/^  reg_syntax_t syntax;$/;"	m	struct:re_pattern_buffer
+syntaxspec	regex.c	/^  syntaxspec,$/;"	e	file:
+tRNA	PBS.h	/^    vector< string > tRNA;$/;"	m	class:PBS
+tRNA_name	PBS.h	/^    vector< string > tRNA_name;$/;"	m	class:PBS
+tg_pos1	struct.h	/^    int tg_pos1;$/;"	m	struct:TG_CA_TSR
+tg_pos1	struct.h	/^    int tg_pos1;$/;"	m	struct:stick
+tg_pos2	struct.h	/^    int tg_pos2;$/;"	m	struct:TG_CA_TSR
+tg_pos2	struct.h	/^    int tg_pos2;$/;"	m	struct:stick
+trans_seq	CallPsScan.cpp	/^int CPSSCAN::trans_seq(const char *nt, int len, char *aa, int is_trans)$/;"	f	class:CPSSCAN
+trans_seq	DetectDomain.cpp	/^int CPSSCAN::trans_seq(const char *nt, int len, char *aa, int is_trans)$/;"	f	class:CPSSCAN
+translate	regex.h	/^  RE_TRANSLATE_TYPE translate;$/;"	m	struct:re_pattern_buffer
+true	regex.c	404;"	d	file:
+truncate_wchar	regex.c	/^truncate_wchar (c)$/;"	f	file:
+tsr_len	struct.h	/^    int tsr_len;$/;"	m	struct:stick
+tsr_pos1	struct.h	/^    int tsr_pos1;$/;"	m	struct:TG_CA_TSR
+tsr_pos1	struct.h	/^    int tsr_pos1;$/;"	m	struct:stick
+tsr_pos2	struct.h	/^    int tsr_pos2;$/;"	m	struct:TG_CA_TSR
+tsr_pos2	struct.h	/^    int tsr_pos2;$/;"	m	struct:stick
+uchar	lcp.h	/^typedef unsigned char uchar;$/;"	t
+uchar	seq.h	/^typedef unsigned char uchar;$/;"	t
+uintptr_t	regex.c	/^typedef unsigned long int uintptr_t;$/;"	t	file:
+used	regex.h	/^  unsigned long int used;$/;"	m	struct:re_pattern_buffer
+used	struct.h	/^    bool used;\/\/$/;"	m	struct:MOTIF
+vaild	CallPsScan.h	/^    bool vaild;$/;"	m	struct:CRegion
+vaild	DetectDomain.h	/^    bool vaild;$/;"	m	struct:CRegion
+wcs_compile_range	regex.c	/^wcs_compile_range (range_start_char, p_ptr, pend, translate, syntax, b,$/;"	f	file:
+wcs_re_match_2_internal	regex.c	/^wcs_re_match_2_internal (bufp, cstring1, csize1, cstring2, csize2, pos,$/;"	f	file:
+window_size	PBS.h	/^    int window_size;$/;"	m	class:PPT
+wordbeg	regex.c	/^  wordbeg,	\/* Succeeds if at word beginning.  *\/$/;"	e	file:
+wordbound	regex.c	/^  wordbound,	\/* Succeeds if at a word boundary.  *\/$/;"	e	file:
+wordchar	regex.c	/^  wordchar,	\/* Matches any word-constituent character.  *\/$/;"	e	file:
+wordend	regex.c	/^  wordend,	\/* Succeeds if at word end.  *\/$/;"	e	file:
+wrought	main.cpp	/^int wrought=0;$/;"	v
+~BooleanString	BooleanString.C	/^BooleanString::~BooleanString()$/;"	f	class:BooleanString
+~CPSSCAN	CallPsScan.cpp	/^CPSSCAN::~CPSSCAN()$/;"	f	class:CPSSCAN
+~CPSSCAN	DetectDomain.h	/^    ~CPSSCAN(){};$/;"	f	class:CPSSCAN
+~PBS	PBS.h	/^    ~PBS(){};$/;"	f	class:PBS
+~PPT	PBS.h	/^    ~PPT(){};$/;"	f	class:PPT
