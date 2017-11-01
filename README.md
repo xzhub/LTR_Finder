@@ -13,7 +13,11 @@ The Program first constructs all exact match pairs by a suffix-array based algor
 ## Usage
 1. Read help.pdf
 2. Example of figure output: 
-   ```./ltr_finder test/3ds_72.fa -P TEST -w2 -f /dev/stderr 2>&1 >fig_test/result.txt | perl genome_plot.pl fig_output_folder/```
+
+   ```
+cd source
+./ltr_finder test/3ds_72.fa -P 3ds_72 -w2 -f /dev/stderr 2>&1 > test/3ds_72_result.txt | perl genome_plot.pl test/
+   ```
 
 ## Reference
 Xu, Zhao, and Hao Wang. “LTR_FINDER: an efficient tool for the prediction of full-length LTR retrotransposons.” Nucleic Acids Research 35, suppl. 2 (2007): W265-W268. 
