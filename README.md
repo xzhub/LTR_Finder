@@ -1,4 +1,7 @@
 # LTR_Finder
+
+NOTE: This repository is not maintained anymore. I can only try to resolve/answer easy issues/questions. I may not have the time to do extensive debugging. If there is any issue or bug you found and fixed, please submit a pull request, I'll try my best to review then add it into the code base. Thanks!
+
 ## Introduction
 LTR_Finder is an efficient program for finding full-length LTR retrotranspsons in genome sequences.
 
