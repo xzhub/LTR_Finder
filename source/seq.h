@@ -31,7 +31,11 @@
 #define MYFREE kr_free
 #define MYREALOC kr_realloc
 #else
+#if defined(__MACH__)
+#include <stdlib.h>
+#else
 #include <malloc.h>
+#endif /* __MACH__ */
 #define MYALLOC malloc
 #define MYFREE free
 #define MYREALLOC realloc
