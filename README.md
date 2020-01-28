@@ -23,6 +23,3 @@ cd source
 
 ## Reference
 Xu, Zhao, and Hao Wang. “LTR_FINDER: an efficient tool for the prediction of full-length LTR retrotransposons.” Nucleic Acids Research 35, suppl. 2 (2007): W265-W268. 
-
-## License
-This software is free for non-commercial use. For commercial use, a software agreement is required.
