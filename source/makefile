@@ -3,8 +3,8 @@ CXX = g++
 
 # For program run
 # CPPFLAGS = -fomit-frame-pointer -W -Wall -Winline -DNDBUG -O3
-CPPFLAGS = -fomit-frame-pointer -DNDBUG  -O3 
-CFLAGS = -fomit-frame-pointer -DNDBUG  -O3 
+CPPFLAGS = -fomit-frame-pointer -DNDBUG  -O3 -fsigned-char
+CFLAGS = -fomit-frame-pointer -DNDBUG  -O3 -fsigned-char
 
 # For debug
 # CPPFLAGS = -g -W -Wall -Winline
